@@ -1,9 +1,3 @@
-Here is the complete `README.md` content rewritten in an alternative, highly scannable **Grid & Component-Based Format**. This format uses clean visual blocks, technical badges, and structured tables, which developer teams highly favor for quick reading during code reviews.
-
-You can copy and paste this directly into your root `README.md` file:
-
----
-
 # 📊 Unit Conversion Web API
 
 > **Production-Ready ASP.NET Core Engine for Dynamic Measurement Conversions**
